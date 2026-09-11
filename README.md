@@ -29,3 +29,7 @@ Music and picture management are further along, while direct Zune communication 
 
 
 Co-coded with an LLM
+
+## Opening it
+
+This project is currently not able to be launched on GitHub Pages because it requires a dynamic hoster. Im currently working on a fix but I don't know when it will be put in place
